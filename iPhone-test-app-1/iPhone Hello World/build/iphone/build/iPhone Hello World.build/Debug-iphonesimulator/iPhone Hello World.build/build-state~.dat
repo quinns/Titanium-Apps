@@ -1,0 +1,505 @@
+TiPhone Hello World
+v7
+r0
+t286441998.692663
+cCheck dependencies
+cProcessInfoPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist" Info.plist
+cPhaseScriptExecution "Run Script" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Script-B4EA72B50FBC96AA005AA7FB.sh"
+cCompileXIB "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib"
+cCpResource "build/Debug-iphonesimulator/iPhone Hello World.app/Default.png" Resources/Default.png
+cCopyPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/tiapp.plist" Resources/tiapp.plist
+cCopyPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Entitlements.plist" Resources/Entitlements.plist
+cProcessPCH "/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch.gch" "iPhone Hello World_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/main.o" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/ApplicationRouting.o" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World" normal i386
+cGenerateDSYMFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app.dSYM" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World"
+cTouch "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A1221B6000000000005E250
+t1242702262
+s385616
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004A122255000000000019A6D0
+t1242702421
+s1681104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004A12232A00000000001D2A20
+t1242702634
+s1911328
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A1220EF00000000000380E0
+t1242702063
+s229600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B5D033D00000000000000EE
+t1264386877
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004ABDC9F500000000000120D0
+t1253951989
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004ABDC8DB0000000000193960
+t1253951707
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004ABDC8D300000000001097C0
+t1253951699
+s1087424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDEE58000000000004AFE0
+t1253961304
+s307168
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004ABDF0B500000000000CB600
+t1253961909
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004ABDEF8A0000000000069ED0
+t1253961610
+s433872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004ABDC9910000000000018E90
+t1253951889
+s102032
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004ABDC8080000000000055360
+t1253951496
+s349024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/libsqlite3.dylib
+c000000004ABDC6BF00000000000C4CF0
+t1253951167
+s806128
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/libz.dylib
+c00000000476CCCD10000000000006EE8
+t1198312657
+s28392
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ADE5FA10000000000CF0BE0
+t1256087457
+s13568992
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.h
+c000000004B628A8B000000000000026C
+t1264749195
+s620
+i<Foundation/Foundation.h>
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m
+c000000004B628A8B000000000001DEBE
+t1264749195
+s122558
+i<Foundation/Foundation.h>
+i"ApplicationRouting.h"
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/Default.png
+c000000004B628A8B0000000000004091
+t1264749195
+s16529
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/Entitlements.plist
+c000000004B628A6F00000000000000E1
+t1264749167
+s225
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib
+c000000004B628A8B00000000000059AD
+t1264749195
+s22957
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/libTitanium.a
+c000000004B628A8B00000000005D5A70
+t1264749195
+s6118000
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/tiapp.plist
+c000000004B628A8B00000000000002F9
+t1264749195
+s761
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app
+t1264749198
+s442
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app.dSYM
+t1264749198
+s102
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png
+t1264749197
+s16529
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Entitlements.plist
+t1264749197
+s62
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist
+t1264749196
+s719
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/MainWindow.nib
+t1264749197
+s2113
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/PkgInfo
+t1264749196
+s8
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World
+t1264749198
+s840332
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/tiapp.plist
+t1264749197
+s761
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/ApplicationRouting.o
+t1264749198
+s133604
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/iPhone Hello World.LinkFileList
+c000000004B628A8C00000000000001AC
+t1264749196
+s428
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/main.o
+t1264749198
+s9976
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Script-B4EA72B50FBC96AA005AA7FB.sh
+c000000004B628A8C000000000000028F
+t1264749196
+s655
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/iPhone Hello World_Prefix.pch
+c000000004B628A6F0000000000000086
+t1264749167
+s134
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m
+c000000004B628A8B00000000000003EE
+t1264749195
+s1006
+i<UIKit/UIKit.h>
+
+N/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch.gch
+t1264749198
+s13022672
+
+NInfo.plist
+c000000004B628A8B00000000000003E5
+t1264749195
+s997
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286441996#286441996#0(0"0(0#1#0"7298118816170469376#0"0#
+
+CCompileC "build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/ApplicationRouting.o" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286441998.316968
+e286441998.380916
+r1
+xCompileC
+xbuild/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/ApplicationRouting.o
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m286441998#286441998#0(0"0(0#0#130"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m4301200840#2918"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__LOG__ID__=6c74899b-258e-4fc6-ae5b-dc7c584b6250 -DDEPLOYTYPE=development -DDEBUG=1 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-generated-files.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-own-target-headers.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-all-target-headers.hmap" -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-project-headers.hmap" "-F/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/include" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources/i386" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources" -include "/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch" -c "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Classes/ApplicationRouting.m" -o "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/ApplicationRouting.o"0#
+
+CCompileC "build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/main.o" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286441998.315921
+e286441998.368579
+r1
+xCompileC
+xbuild/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/main.o
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m286441998#286441998#0(0"0(0#0#108"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m4301200840#2882"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__LOG__ID__=6c74899b-258e-4fc6-ae5b-dc7c584b6250 -DDEPLOYTYPE=development -DDEBUG=1 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-generated-files.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-own-target-headers.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-all-target-headers.hmap" -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-project-headers.hmap" "-F/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/include" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources/i386" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources" -include "/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch" -c "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/main.m" -o "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib"
+s286441997.205569
+e286441997.690835
+r1
+xCompileXIB
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib286441997#286441997#0(0"0(0#0#126"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib7162247809294409728#698"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/MainWindow.nib" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/MainWindow.xib"0#
+
+CCopyPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Entitlements.plist" Resources/Entitlements.plist
+s286441997.245180
+e286441997.264875
+r1
+xCopyPlistFile
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Entitlements.plist
+xResources/Entitlements.plist
+lSLF07#2@33"Copy Resources/Entitlements.plist286441997#286441997#0(0"0(0#0#130"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/Entitlements.plist4301200840#544"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/Entitlements.plist --outdir "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"0#
+
+CCopyPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/tiapp.plist" Resources/tiapp.plist
+s286441997.207222
+e286441997.245098
+r1
+xCopyPlistFile
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/tiapp.plist
+xResources/tiapp.plist
+lSLF07#2@26"Copy Resources/tiapp.plist286441997#286441997#0(0"0(0#0#123"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/tiapp.plist4301200840#537"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/tiapp.plist --outdir "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"0#
+
+CCpResource "build/Debug-iphonesimulator/iPhone Hello World.app/Default.png" Resources/Default.png
+s286441997.206438
+e286441997.214438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iPhone Hello World.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png286441997#286441997#0(0"0(0#0#123"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/Default.png4301200840#671"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Resources/Default.png" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"0#
+
+CGenerateDSYMFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app.dSYM" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World"
+s286441998.558293
+e286441998.690168
+r1
+xGenerateDSYMFile
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app.dSYM
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World
+lSLF07#2@146"GenerateDSYMFile "build/Debug-iphonesimulator/iPhone Hello World.app.dSYM" "build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World"286441998#286441998#0(0"0(0#0#171"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World4301200840#611"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World" -o "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app.dSYM"0#
+
+CLd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World" normal i386
+s286441998.381010
+e286441998.558138
+r1
+xLd
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World
+xnormal
+xi386
+lSLF07#2@176"Link /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World286441998#286441998#0(0"0(0#0#0"4301200840#1738"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator" "-L/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone" -LResources "-F/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator" -filelist "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/iPhone Hello World.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -ObjC -framework SystemConfiguration -framework AVFoundation -framework CoreLocation -lz -framework AudioToolbox -framework Foundation -framework UIKit -framework MediaPlayer -framework CoreGraphics -lTitanium -lsqlite3 -framework MessageUI -framework OpenGLES -framework QuartzCore -framework MapKit -framework AddressBook -framework AddressBookUI -framework CFNetwork -framework MobileCoreServices -o "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iPhone Hello World"0#
+
+CPhaseScriptExecution "Run Script" "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Script-B4EA72B50FBC96AA005AA7FB.sh"
+s286441996.600690
+e286441997.205013
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Script-B4EA72B50FBC96AA005AA7FB.sh
+oiphoneos-optimize: Converting plists to binary in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/
+oiphoneos-optimize: Converted to binary plist: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist
+oiphoneos-optimize: Optimizing PNGs in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/
+o
+o | pngcrush 1.6.4
+o |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson
+o |    Copyright (C) 2005      Greg Roelofs
+o | This is a free, open-source program.  Permission is irrevocably
+o | granted to everyone to use this version of pngcrush without
+o | payment of any fee.
+o | Executable name is pngcrush
+o | It was built with libpng version 1.2.7, and is
+o | running with  libpng version 1.2.7 - September 12, 2004 (header)
+o |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,
+o |    Copyright (C) 1996, 1997 Andreas Dilger,
+o |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,
+o | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),
+o |    Jean-loup Gailly and Mark Adler.
+o | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).
+o
+o   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png
+o   Total length of data found in IDAT chunks    =     4181
+o   Adding an opaque alpha channel.
+o   IDAT length with method 120 (fm 1 zl 9 zs 1) =     4726
+o   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon-pngcrush.png
+o     (13.04% IDAT increase)
+o     (13.12% filesize increase)
+o
+o   CPU time used = 0.007 seconds (decoding 0.000,
+o          encoding 0.002, other 0.004 seconds)
+o
+oiphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png
+o
+o | pngcrush 1.6.4
+o |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson
+o |    Copyright (C) 2005      Greg Roelofs
+o | This is a free, open-source program.  Permission is irrevocably
+o | granted to everyone to use this version of pngcrush without
+o | payment of any fee.
+o | Executable name is pngcrush
+o | It was built with libpng version 1.2.7, and is
+o | running with  libpng version 1.2.7 - September 12, 2004 (header)
+o |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,
+o |    Copyright (C) 1996, 1997 Andreas Dilger,
+o |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,
+o | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),
+o |    Jean-loup Gailly and Mark Adler.
+o | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).
+o
+o   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png
+o   Total length of data found in IDAT chunks    =     1650
+o   IDAT length with method 120 (fm 1 zl 9 zs 1) =     1844
+o   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox-pngcrush.png
+o     (11.76% IDAT increase)
+o     (12.30% filesize increase)
+o
+o   CPU time used = 0.004 seconds (decoding 0.000,
+o          encoding 0.001, other 0.003 seconds)
+o
+oiphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png
+o
+o | pngcrush 1.6.4
+o |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson
+o |    Copyright (C) 2005      Greg Roelofs
+o | This is a free, open-source program.  Permission is irrevocably
+o | granted to everyone to use this version of pngcrush without
+o | payment of any fee.
+o | Executable name is pngcrush
+o | It was built with libpng version 1.2.7, and is
+o | running with  libpng version 1.2.7 - September 12, 2004 (header)
+o |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,
+o |    Copyright (C) 1996, 1997 Andreas Dilger,
+o |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,
+o | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),
+o |    Jean-loup Gailly and Mark Adler.
+o | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).
+o
+o   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png
+o   Total length of data found in IDAT chunks    =    16435
+o   Adding an opaque alpha channel.
+o   IDAT length with method 120 (fm 1 zl 9 zs 1) =    25228
+o   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default-pngcrush.png
+o     (53.50% IDAT increase)
+o     (53.29% filesize increase)
+o
+o   CPU time used = 0.071 seconds (decoding 0.005,
+o          encoding 0.057, other 0.008 seconds)
+o
+oiphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png
+o
+o | pngcrush 1.6.4
+o |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson
+o |    Copyright (C) 2005      Greg Roelofs
+o | This is a free, open-source program.  Permission is irrevocably
+o | granted to everyone to use this version of pngcrush without
+o | payment of any fee.
+o | Executable name is pngcrush
+o | It was built with libpng version 1.2.7, and is
+o | running with  libpng version 1.2.7 - September 12, 2004 (header)
+o |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,
+o |    Copyright (C) 1996, 1997 Andreas Dilger,
+o |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,
+o | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),
+o |    Jean-loup Gailly and Mark Adler.
+o | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).
+o
+o   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png
+o   Total length of data found in IDAT chunks    =    87739
+o   IDAT length with method 120 (fm 1 zl 9 zs 1) =    39199
+o   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo-pngcrush.png
+o     (55.32% IDAT reduction)
+o     (55.32% filesize reduction)
+o
+o   CPU time used = 0.248 seconds (decoding 0.011,
+o          encoding 0.225, other 0.012 seconds)
+o
+oiphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png
+o
+o | pngcrush 1.6.4
+o |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson
+o |    Copyright (C) 2005      Greg Roelofs
+o | This is a free, open-source program.  Permission is irrevocably
+o | granted to everyone to use this version of pngcrush without
+o | payment of any fee.
+o | Executable name is pngcrush
+o | It was built with libpng version 1.2.7, and is
+o | running with  libpng version 1.2.7 - September 12, 2004 (header)
+o |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,
+o |    Copyright (C) 1996, 1997 Andreas Dilger,
+o |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,
+o | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),
+o |    Jean-loup Gailly and Mark Adler.
+o | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).
+o
+o   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png
+o   Total length of data found in IDAT chunks    =     3933
+o   IDAT length with method 120 (fm 1 zl 9 zs 1) =     5972
+o   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault-pngcrush.png
+o     (51.84% IDAT increase)
+o     (51.03% filesize increase)
+o
+o   CPU time used = 0.021 seconds (decoding 0.002,
+o          encoding 0.013, other 0.005 seconds)
+o
+oiphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png
+lSLF07#2@36"Run custom shell script 'Run Script'286441996#286441997#0(9022"iphoneos-optimize: Converting plists to binary in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/iphoneos-optimize: Converted to binary plist: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plistiphoneos-optimize: Optimizing PNGs in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/ | pngcrush 1.6.4 |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson |    Copyright (C) 2005      Greg Roelofs | This is a free, open-source program.  Permission is irrevocably | granted to everyone to use this version of pngcrush without | payment of any fee. | Executable name is pngcrush | It was built with libpng version 1.2.7, and is | running with  libpng version 1.2.7 - September 12, 2004 (header) |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson, |    Copyright (C) 1996, 1997 Andreas Dilger, |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc., | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later), |    Jean-loup Gailly and Mark Adler. | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png   Total length of data found in IDAT chunks    =     4181   Adding an opaque alpha channel.   IDAT length with method 120 (fm 1 zl 9 zs 1) =     4726   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon-pngcrush.png     (13.04% IDAT increase)     (13.12% filesize increase)   CPU time used = 0.007 seconds (decoding 0.000,          encoding 0.002, other 0.004 seconds)iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png | pngcrush 1.6.4 |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson |    Copyright (C) 2005      Greg Roelofs | This is a free, open-source program.  Permission is irrevocably | granted to everyone to use this version of pngcrush without | payment of any fee. | Executable name is pngcrush | It was built with libpng version 1.2.7, and is | running with  libpng version 1.2.7 - September 12, 2004 (header) |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson, |    Copyright (C) 1996, 1997 Andreas Dilger, |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc., | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later), |    Jean-loup Gailly and Mark Adler. | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png   Total length of data found in IDAT chunks    =     1650   IDAT length with method 120 (fm 1 zl 9 zs 1) =     1844   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox-pngcrush.png     (11.76% IDAT increase)     (12.30% filesize increase)   CPU time used = 0.004 seconds (decoding 0.000,          encoding 0.001, other 0.003 seconds)iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png | pngcrush 1.6.4 |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson |    Copyright (C) 2005      Greg Roelofs | This is a free, open-source program.  Permission is irrevocably | granted to everyone to use this version of pngcrush without | payment of any fee. | Executable name is pngcrush | It was built with libpng version 1.2.7, and is | running with  libpng version 1.2.7 - September 12, 2004 (header) |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson, |    Copyright (C) 1996, 1997 Andreas Dilger, |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc., | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later), |    Jean-loup Gailly and Mark Adler. | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png   Total length of data found in IDAT chunks    =    16435   Adding an opaque alpha channel.   IDAT length with method 120 (fm 1 zl 9 zs 1) =    25228   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default-pngcrush.png     (53.50% IDAT increase)     (53.29% filesize increase)   CPU time used = 0.071 seconds (decoding 0.005,          encoding 0.057, other 0.008 seconds)iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png | pngcrush 1.6.4 |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson |    Copyright (C) 2005      Greg Roelofs | This is a free, open-source program.  Permission is irrevocably | granted to everyone to use this version of pngcrush without | payment of any fee. | Executable name is pngcrush | It was built with libpng version 1.2.7, and is | running with  libpng version 1.2.7 - September 12, 2004 (header) |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson, |    Copyright (C) 1996, 1997 Andreas Dilger, |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc., | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later), |    Jean-loup Gailly and Mark Adler. | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png   Total length of data found in IDAT chunks    =    87739   IDAT length with method 120 (fm 1 zl 9 zs 1) =    39199   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo-pngcrush.png     (55.32% IDAT reduction)     (55.32% filesize reduction)   CPU time used = 0.248 seconds (decoding 0.011,          encoding 0.225, other 0.012 seconds)iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png | pngcrush 1.6.4 |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson |    Copyright (C) 2005      Greg Roelofs | This is a free, open-source program.  Permission is irrevocably | granted to everyone to use this version of pngcrush without | payment of any fee. | Executable name is pngcrush | It was built with libpng version 1.2.7, and is | running with  libpng version 1.2.7 - September 12, 2004 (header) |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson, |    Copyright (C) 1996, 1997 Andreas Dilger, |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc., | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later), |    Jean-loup Gailly and Mark Adler. | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png   Total length of data found in IDAT chunks    =     3933   IDAT length with method 120 (fm 1 zl 9 zs 1) =     5972   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault-pngcrush.png     (51.84% IDAT increase)     (51.03% filesize increase)   CPU time used = 0.021 seconds (decoding 0.002,          encoding 0.013, other 0.005 seconds)iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png125(13@204"iphoneos-optimize: Converting plists to binary in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/286441996#0#204#0(1@0"0(13@210"iphoneos-optimize: Converted to binary plist: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist286441996#204#210#0(1@0"0(13@192"iphoneos-optimize: Optimizing PNGs in /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/286441996#414#192#0(1@0"0(13@18" | pngcrush 1.6.4286441996#607#18#0(1@0"0(13@57" |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson286441996#625#57#0(1@0"0(13@43" |    Copyright (C) 2005      Greg Roelofs286441996#682#43#0(1@0"0(13@67" | This is a free, open-source program.  Permission is irrevocably286441996#725#67#0(1@0"0(13@63" | granted to everyone to use this version of pngcrush without286441996#792#63#0(1@0"0(13@23" | payment of any fee.286441996#855#23#0(1@0"0(13@31" | Executable name is pngcrush286441996#878#31#0(1@0"0(13@50" | It was built with libpng version 1.2.7, and is286441996#909#50#0(1@0"0(13@68" | running with  libpng version 1.2.7 - September 12, 2004 (header)286441996#959#68#0(1@0"0(13@58" |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,286441996#1027#58#0(1@0"0(13@47" |    Copyright (C) 1996, 1997 Andreas Dilger,286441996#1085#47#0(1@0"0(13@60" |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,286441996#1132#60#0(1@0"0(13@63" | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),286441996#1192#63#0(1@0"0(13@39" |    Jean-loup Gailly and Mark Adler.286441996#1255#39#0(1@0"0(13@77" | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).286441996#1294#77#0(1@0"0(13@182"   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png286441996#1372#182#0(1@0"0(13@59"   Total length of data found in IDAT chunks    =     4181286441996#1554#59#0(1@0"0(13@35"   Adding an opaque alpha channel.286441996#1613#35#0(1@0"0(13@59"   IDAT length with method 120 (fm 1 zl 9 zs 1) =     4726286441996#1648#59#0(1@0"0(13@225"   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon-pngcrush.png286441996#1707#225#0(1@0"0(13@28"     (13.04% IDAT increase)286441996#1932#28#0(1@0"0(13@32"     (13.12% filesize increase)286441996#1960#32#0(1@0"0(13@50"   CPU time used = 0.007 seconds (decoding 0.000,286441996#1993#50#0(1@0"0(13@47"          encoding 0.002, other 0.004 seconds)286441996#2043#47#0(1@0"0(13@199"iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/appicon.png286441996#2091#199#0(1@0"0(13@18" | pngcrush 1.6.4286441996#2291#18#0(1@0"0(13@57" |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson286441996#2309#57#0(1@0"0(13@43" |    Copyright (C) 2005      Greg Roelofs286441996#2366#43#0(1@0"0(13@67" | This is a free, open-source program.  Permission is irrevocably286441996#2409#67#0(1@0"0(13@63" | granted to everyone to use this version of pngcrush without286441996#2476#63#0(1@0"0(13@23" | payment of any fee.286441996#2539#23#0(1@0"0(13@31" | Executable name is pngcrush286441996#2562#31#0(1@0"0(13@50" | It was built with libpng version 1.2.7, and is286441996#2593#50#0(1@0"0(13@68" | running with  libpng version 1.2.7 - September 12, 2004 (header)286441996#2643#68#0(1@0"0(13@58" |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,286441996#2711#58#0(1@0"0(13@47" |    Copyright (C) 1996, 1997 Andreas Dilger,286441996#2769#47#0(1@0"0(13@60" |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,286441996#2816#60#0(1@0"0(13@63" | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),286441996#2876#63#0(1@0"0(13@39" |    Jean-loup Gailly and Mark Adler.286441996#2939#39#0(1@0"0(13@77" | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).286441996#2978#77#0(1@0"0(13@183"   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png286441996#3056#183#0(1@0"0(13@59"   Total length of data found in IDAT chunks    =     1650286441996#3239#59#0(1@0"0(13@59"   IDAT length with method 120 (fm 1 zl 9 zs 1) =     1844286441996#3298#59#0(1@0"0(13@226"   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox-pngcrush.png286441996#3357#226#0(1@0"0(13@28"     (11.76% IDAT increase)286441996#3583#28#0(1@0"0(13@32"     (12.30% filesize increase)286441996#3611#32#0(1@0"0(13@50"   CPU time used = 0.004 seconds (decoding 0.000,286441996#3644#50#0(1@0"0(13@47"          encoding 0.001, other 0.003 seconds)286441996#3694#47#0(1@0"0(13@200"iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/closebox.png286441996#3742#200#0(1@0"0(13@18" | pngcrush 1.6.4286441996#3943#18#0(1@0"0(13@57" |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson286441996#3961#57#0(1@0"0(13@43" |    Copyright (C) 2005      Greg Roelofs286441996#4018#43#0(1@0"0(13@67" | This is a free, open-source program.  Permission is irrevocably286441996#4061#67#0(1@0"0(13@63" | granted to everyone to use this version of pngcrush without286441996#4128#63#0(1@0"0(13@23" | payment of any fee.286441996#4191#23#0(1@0"0(13@31" | Executable name is pngcrush286441996#4214#31#0(1@0"0(13@50" | It was built with libpng version 1.2.7, and is286441996#4245#50#0(1@0"0(13@68" | running with  libpng version 1.2.7 - September 12, 2004 (header)286441996#4295#68#0(1@0"0(13@58" |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,286441996#4363#58#0(1@0"0(13@47" |    Copyright (C) 1996, 1997 Andreas Dilger,286441996#4421#47#0(1@0"0(13@60" |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,286441996#4468#60#0(1@0"0(13@63" | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),286441996#4528#63#0(1@0"0(13@39" |    Jean-loup Gailly and Mark Adler.286441996#4591#39#0(1@0"0(13@77" | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).286441996#4630#77#0(1@0"0(13@182"   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png286441996#4708#182#0(1@0"0(13@59"   Total length of data found in IDAT chunks    =    16435286441996#4890#59#0(1@0"0(13@35"   Adding an opaque alpha channel.286441996#4949#35#0(1@0"0(13@59"   IDAT length with method 120 (fm 1 zl 9 zs 1) =    25228286441996#4984#59#0(1@0"0(13@225"   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default-pngcrush.png286441996#5043#225#0(1@0"0(13@28"     (53.50% IDAT increase)286441996#5268#28#0(1@0"0(13@32"     (53.29% filesize increase)286441996#5296#32#0(1@0"0(13@50"   CPU time used = 0.071 seconds (decoding 0.005,286441996#5329#50#0(1@0"0(13@47"          encoding 0.057, other 0.008 seconds)286441996#5379#47#0(1@0"0(13@199"iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Default.png286441996#5427#199#0(1@0"0(13@18" | pngcrush 1.6.4286441996#5627#18#0(1@0"0(13@57" |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson286441996#5645#57#0(1@0"0(13@43" |    Copyright (C) 2005      Greg Roelofs286441996#5702#43#0(1@0"0(13@67" | This is a free, open-source program.  Permission is irrevocably286441996#5745#67#0(1@0"0(13@63" | granted to everyone to use this version of pngcrush without286441996#5812#63#0(1@0"0(13@23" | payment of any fee.286441996#5875#23#0(1@0"0(13@31" | Executable name is pngcrush286441996#5898#31#0(1@0"0(13@50" | It was built with libpng version 1.2.7, and is286441996#5929#50#0(1@0"0(13@68" | running with  libpng version 1.2.7 - September 12, 2004 (header)286441996#5979#68#0(1@0"0(13@58" |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,286441996#6047#58#0(1@0"0(13@47" |    Copyright (C) 1996, 1997 Andreas Dilger,286441996#6105#47#0(1@0"0(13@60" |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,286441996#6152#60#0(1@0"0(13@63" | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),286441996#6212#63#0(1@0"0(13@39" |    Jean-loup Gailly and Mark Adler.286441996#6275#39#0(1@0"0(13@77" | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).286441996#6314#77#0(1@0"0(13@191"   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png286441996#6392#191#0(1@0"0(13@59"   Total length of data found in IDAT chunks    =    87739286441996#6583#59#0(1@0"0(13@59"   IDAT length with method 120 (fm 1 zl 9 zs 1) =    39199286441997#6642#59#0(1@0"0(13@234"   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo-pngcrush.png286441997#6701#234#0(1@0"0(13@29"     (55.32% IDAT reduction)286441997#6935#29#0(1@0"0(13@33"     (55.32% filesize reduction)286441997#6964#33#0(1@0"0(13@50"   CPU time used = 0.248 seconds (decoding 0.011,286441997#6998#50#0(1@0"0(13@47"          encoding 0.225, other 0.012 seconds)286441997#7048#47#0(1@0"0(13@208"iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/default_app_logo.png286441997#7096#208#0(1@0"0(13@18" | pngcrush 1.6.4286441997#7305#18#0(1@0"0(13@57" |    Copyright (C) 1998-2002,2006 Glenn Randers-Pehrson286441997#7323#57#0(1@0"0(13@43" |    Copyright (C) 2005      Greg Roelofs286441997#7380#43#0(1@0"0(13@67" | This is a free, open-source program.  Permission is irrevocably286441997#7423#67#0(1@0"0(13@63" | granted to everyone to use this version of pngcrush without286441997#7490#63#0(1@0"0(13@23" | payment of any fee.286441997#7553#23#0(1@0"0(13@31" | Executable name is pngcrush286441997#7576#31#0(1@0"0(13@50" | It was built with libpng version 1.2.7, and is286441997#7607#50#0(1@0"0(13@68" | running with  libpng version 1.2.7 - September 12, 2004 (header)286441997#7657#68#0(1@0"0(13@58" |    Copyright (C) 1998-2004,2006 Glenn Randers-Pehrson,286441997#7725#58#0(1@0"0(13@47" |    Copyright (C) 1996, 1997 Andreas Dilger,286441997#7783#47#0(1@0"0(13@60" |    Copyright (C) 1995, Guy Eric Schalnat, Group 42 Inc.,286441997#7830#60#0(1@0"0(13@63" | and zlib version 1.2.3, Copyright (C) 1998-2002 (or later),286441997#7890#63#0(1@0"0(13@39" |    Jean-loup Gailly and Mark Adler.286441997#7953#39#0(1@0"0(13@77" | It was compiled with gcc version 4.2.1 (Apple Inc.  build 5575) (dot 11).286441997#7992#77#0(1@0"0(13@205"   Recompressing /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png286441997#8070#205#0(1@0"0(13@59"   Total length of data found in IDAT chunks    =     3933286441997#8275#59#0(1@0"0(13@59"   IDAT length with method 120 (fm 1 zl 9 zs 1) =     5972286441997#8334#59#0(1@0"0(13@248"   Best pngcrush method = 120 (fm 1 zl 9 zs 1) for /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault-pngcrush.png286441997#8393#248#0(1@0"0(13@28"     (51.84% IDAT increase)286441997#8641#28#0(1@0"0(13@32"     (51.03% filesize increase)286441997#8669#32#0(1@0"0(13@50"   CPU time used = 0.021 seconds (decoding 0.002,286441997#8702#50#0(1@0"0(13@47"          encoding 0.013, other 0.005 seconds)286441997#8752#47#0(1@0"0(13@222"iphoneos-optimize: Optimized PNG: /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/modules/ui/images/photoDefault.png286441997#8800#222#0(1@0"0(0#0#0"4301200840#20992"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER quinn    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build"    setenv BUILD_ROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"    setenv CODE_SIGN_ENTITLEMENTS Resources/Entitlements.plist    setenv CODE_SIGN_IDENTITY "Don't Code Sign"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH "iPhone Hello World.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/iPhone Hello World.dst"    setenv DWARF_DSYM_FILE_NAME "iPhone Hello World.app.dSYM"    setenv DWARF_DSYM_FOLDER_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "iPhone Hello World.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "iPhone Hello World.app"    setenv EXECUTABLE_NAME "iPhone Hello World"    setenv EXECUTABLE_PATH "iPhone Hello World.app/iPhone Hello World"    setenv FILE_LIST "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "iPhone Hello World.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "iPhone Hello World.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER "iPhone Hello World_Prefix.pch"    setenv GCC_PREPROCESSOR_DEFINITIONS "__LOG__ID__=6c74899b-258e-4fc6-ae5b-dc7c584b6250 DEPLOYTYPE=development DEBUG=1"    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30000"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "iPhone Hello World.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR "/tmp/iPhone Hello World.dst/Users/quinn/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER quinn    setenv INSTALL_PATH /Users/quinn/Applications    setenv INSTALL_ROOT "/tmp/iPhone Hello World.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "iPhone Hello World.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator\"  \"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone\" Resources"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal/i386/iPhone Hello World.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1062    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0602    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Objects-normal"    setenv OBJROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build"    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework UIKit -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "iPhone Hello World.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/PkgInfo"    setenv PKGINFO_PATH "iPhone Hello World.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "iPhone Hello World.app/PlugIns"    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "iPhone Hello World.app/PrivateHeaders"    setenv PRODUCT_NAME "iPhone Hello World"    setenv PRODUCT_SETTINGS_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "iPhone Hello World"    setenv PROJECT_DERIVED_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/DerivedSources"    setenv PROJECT_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PROJECT_FILE_PATH "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/iPhone Hello World.xcodeproj"    setenv PROJECT_NAME "iPhone Hello World"    setenv PROJECT_TEMP_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build"    setenv PUBLIC_HEADERS_FOLDER_PATH "iPhone Hello World.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "iPhone Hello World.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk    setenv SDK_NAME iphonesimulator3.1.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH "iPhone Hello World.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "iPhone Hello World.app/SharedSupport"    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv SRCROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/SymbolRepositories"    setenv SYMROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME "iPhone Hello World"    setenv TARGET_BUILD_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator"    setenv TARGET_NAME "iPhone Hello World"    setenv TARGET_TEMP_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build"    setenv TEMP_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build"    setenv TEMP_FILES_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build"    setenv TEMP_FILE_DIR "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build"    setenv TEMP_ROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "iPhone Hello World.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER quinn    setenv USER_APPS_DIR /Users/quinn/Applications    setenv USER_LIBRARY_DIR /Users/quinn/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "iPhone Hello World.app/version.plist"    setenv VERSION_INFO_BUILDER quinn    setenv VERSION_INFO_FILE "iPhone Hello World_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:iPhone Hello World  PROJECT:iPhone Hello World-\""    setenv WEB_SRC_ROOT "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/tmp"    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "iPhone Hello World.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0321    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c "\"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/Script-B4EA72B50FBC96AA005AA7FB.sh\""0#
+
+CProcessInfoPlistFile "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist" Info.plist
+s286441996.593518
+e286441996.600502
+r1
+xProcessInfoPlistFile
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist286441996#286441996#0(0"0(0#0#112"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/Info.plist7599087901962301440#688"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app/Info.plist"0#
+
+CProcessPCH "/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch.gch" "iPhone Hello World_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s286441997.691002
+e286441998.315675
+r1
+xProcessPCH
+x/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch.gch
+xiPhone Hello World_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iPhone Hello World_Prefix.pch286441997#286441998#0(0"0(0#0#131"/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/iPhone Hello World_Prefix.pch4301200840#2698"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__LOG__ID__=6c74899b-258e-4fc6-ae5b-dc7c584b6250 -DDEPLOYTYPE=development -DDEBUG=1 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-generated-files.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-own-target-headers.hmap" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-all-target-headers.hmap" -iquote "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/iPhone Hello World-project-headers.hmap" "-F/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/include" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources/i386" "-I/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/iPhone Hello World.build/Debug-iphonesimulator/iPhone Hello World.build/DerivedSources" -c "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/iPhone Hello World_Prefix.pch" -o "/var/folders/nP/nPM35OvgEUaUzm6QvjFC5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone Hello World_Prefix-ciuoforqwggxmebwraigjjfmabyv/iPhone Hello World_Prefix.pch.gch"0#
+
+CTouch "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"
+s286441998.690293
+e286441998.692559
+r1
+xTouch
+x/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app
+lSLF07#2@158"Touch /Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app286441998#286441998#0(0"0(0#0#0"4301200840#419"    cd "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/quinn/Documents/Xcode Projects/Titanium-Apps/iPhone-test-app-1/iPhone Hello World/build/iphone/build/Debug-iphonesimulator/iPhone Hello World.app"0#
+
